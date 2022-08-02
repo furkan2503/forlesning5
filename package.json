@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "webutvikling og api",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "cd server && npm start",
     "build": "cd server && npm install",
