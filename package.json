@@ -1,0 +1,20 @@
+{
+  "name": "forlesning5",
+  "version": "1.0.0",
+  "description": "webutvikling og api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkan2503/forlesning5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furkan2503/forlesning5/issues"
+  },
+  "homepage": "https://github.com/furkan2503/forlesning5#readme"
+}
