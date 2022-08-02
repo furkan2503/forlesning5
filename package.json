@@ -1,7 +1,7 @@
 {
   "name": "forlesning5",
   "version": "1.0.0",
-  "description": "webutvikling og api",
+  "description": "Heruko",
   "main": "index.js",
   "type": "module",
   "scripts": {
