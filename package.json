@@ -4,6 +4,7 @@
   "description": "webutvikling og api",
   "main": "index.js",
   "scripts": {
+    "start": "cd server && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
